@@ -1,8 +1,8 @@
 class Purge < Formula
   desc "Reclaim the regenerable junk on your Mac: build output, caches, Xcode, agents"
   homepage "https://purge.bixai.dev/"
-  url "https://registry.npmjs.org/purge-cli/-/purge-cli-0.8.1.tgz"
-  sha256 "df9cca6f33783b921532a4c847917eaf49617f98a79ba15b9e139005cde95215"
+  url "https://registry.npmjs.org/purge-cli/-/purge-cli-0.8.2.tgz"
+  sha256 "b6d3156724dd08ca023894c58bfa83f3646a1e7651bcc963f56e7a033bc5ad68"
   license "MIT"
 
   depends_on :macos
